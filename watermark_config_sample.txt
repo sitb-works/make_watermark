@@ -1,0 +1,6 @@
+font_path = arial.ttf
+font_size = 32
+text:
+This is a sample image.
+Please do not repost.
+endtext

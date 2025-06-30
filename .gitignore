@@ -1,0 +1,22 @@
+# Python venv
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Mac系
+.DS_Store
+
+# 画像類
+images/*
+watermarked_output/
+
+# エディタ・IDE
+.vscode/
+.idea/
+*.swp
+
+# 固有ファイルなど
+makinas4/
+watermark_config.txt
+*.pdf
